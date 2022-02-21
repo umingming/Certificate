@@ -14,8 +14,8 @@
 
 ### 2. D셀에 내가 생각한 답 적기
 ![image](https://user-images.githubusercontent.com/87955005/154834228-b9801f41-fd6e-4693-b819-fbd547044071.png)
-<br />
-<br />
+> 답이 2개 이상인 경우 콤마(,)와 띄어쓰기로 구분해주세요!   ex) A, B, C </br>
+> 단, O/X 문제는 콤마로 구분하지 않습니다.    ex) OOOX
 <br />
 <br />
 
@@ -53,6 +53,9 @@
 <br />
 <br />
 <br />
+
+
+
 
 
 
